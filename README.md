@@ -10,12 +10,6 @@ LLM이 게임참여자의 생각을 어떻게 읽어 가는지 알아보며, LLM
 1. 게임전 게임참여자가 단어를 생각합니다. <br>
 2. 게임시작으로 LLM 이 질문을 할때 답변을 해 주시고, 20번 질문이전에 LLM이 게임참여자의 답을 맞추면 LLM이 승리합니다. <br>
 
----
-### 기술 스택
-Python<br>
-Streamlit (Web UI)<br>
-Ollama (로컬 LLM 구동)<br>
-EEVE-Korean-10.8B (GGUF)<br>
 
 ---
 ### 개발자 노트
